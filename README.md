@@ -1,1 +1,7 @@
 # Multivariate-Water-Quality-Trace-Elements-Bangladesh
+
+**Title:** Trace elements in surface water and groundwater in the Surma–Kushiyara Floodplain Basin, Bangladesh: A multivariate statistical evaluation
+
+**Abstract**
+
+Trace elements are found in small concentrations in water but can be detrimental. Univariate, bivariate, and multivariate analyses of trace elements in the eastern Surma–Kushiyara Floodplain Basin are presented in this study for selected trace elements (As, Co, Cu, Cd, Fe, Zn, Ni, and Mn) and water quality parameters (TDS, pH, and EC). Except for arsenic, manganese, and iron, the research area's trace element concentration of water remains below the drinking water standard. Principal component analysis (PCA) has identified the impact of river inflows, the effect of atmospheric precipitation, biogenic processes, and human activities as possible contributors to the water quality of the study site. Based on their properties, cluster analysis (CA) divided both the surface and groundwater sample points into three major categories. To identify natural links among the water samples, the groups derived from the CA and the natural grouping of surface and groundwater were reassessed based on the discriminant analysis (DA). The classification of surface water and groundwater, and the natural difference between surface and groundwater quality, were strongly supported by the DA. The findings of the study will help policymakers make decisions on safeguarding water and reducing environmental pollution in the study region.
